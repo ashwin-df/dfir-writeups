@@ -1,0 +1,9 @@
+Case: USB Deleted Files - Case 01
+
+Original Device: /dev/sdc
+SHA256: 89d948085738bdb991e4531a08e8440a9890f0f732b0fd3a5d08862259dad9d3  /dev/sdc
+
+Image File: usb_case01.img
+SHA256: 89d948085738bdb991e4531a08e8440a9890f0f732b0fd3a5d08862259dad9d3  usb_case01.img
+
+Result: Hash values matched. Integrity verified.
