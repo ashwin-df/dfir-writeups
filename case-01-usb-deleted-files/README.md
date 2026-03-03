@@ -23,7 +23,7 @@
 - Recovered files:
     - photo_trip_01.jpg
     - photo_trip_02.jpg
-    - bank_statement_2024.pdf
+    - bank_statement_2025.pdf
 - Only the files intentionally deleted for this practice were included in the analysis.
 - Screenshots of recovered files are included in the `screenshots/` folder.
 - Total recovered files: 9992 (includes junk files), but analysis focused on the relevant images and PDFs.
